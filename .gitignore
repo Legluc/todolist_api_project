@@ -1,0 +1,6 @@
+.env
+.env.test
+sql.js
+node_modules/
+logs/
+sql/
